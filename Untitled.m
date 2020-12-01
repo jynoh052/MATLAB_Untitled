@@ -6,9 +6,13 @@ alpha=dt/(dt+rc)
 %  test1
 %  test22
 <<<<<<< HEAD
+<<<<<<< HEAD
 %  test33
 %  test44
 % aaaaa
+=======
+%  test33
+>>>>>>> parent of c92a87e... Update Untitled.m
 =======
 %  test33
 >>>>>>> parent of c92a87e... Update Untitled.m
